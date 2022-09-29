@@ -7,5 +7,4 @@ int main(void)
 }
 # git-exercise
 
---
-*****
+
